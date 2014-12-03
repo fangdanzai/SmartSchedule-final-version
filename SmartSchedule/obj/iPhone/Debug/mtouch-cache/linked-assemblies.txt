@@ -1,3 +1,0 @@
-/Users/Eben/Projects/TaskGrid/SmartSchedule/SmartSchedule/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
-/Users/Eben/Projects/TaskGrid/SmartSchedule/SmartSchedule/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
-/Users/Eben/Projects/TaskGrid/SmartSchedule/SmartSchedule/obj/iPhone/Debug/mtouch-cache/Link/SmartSchedule.exe
