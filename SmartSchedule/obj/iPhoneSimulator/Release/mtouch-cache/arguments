@@ -1,0 +1,26 @@
+# Version: 8.4.0.43 (840a925)
+# [first argument, ignore] # /Users/danfang/Desktop/未命名文件夹 5/SmartSchedule/bin/iPhoneSimulator/Release/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.4.0.43/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	"/Users/danfang/Desktop/未命名文件夹 5/SmartSchedule/obj/iPhoneSimulator/Release/mtouch-cache" \
+	--nomanifest \
+	--nosign \
+	-sim \
+	"/Users/danfang/Desktop/未命名文件夹 5/SmartSchedule/bin/iPhoneSimulator/Release/SmartSchedule.app" \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-nolink \
+	-sdk \
+	7.1 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	"/Users/danfang/Desktop/未命名文件夹 5/SmartSchedule/bin/iPhoneSimulator/Release/SmartSchedule.exe" \
